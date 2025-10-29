@@ -11,10 +11,13 @@ Check if the system has pending updates and notify the user. Example Output: Sys
 
 
 -----------FUNCTIONALITY--------------
+1. Check for Updates	Updates the package list and shows how many updates are available.
+2. Install Updates	Installs all available updates automatically.
+3. Clean System	Removes old/unused packages and cleans cache.
+4. Show System Info	Displays your OS version and Linux kernel version.
+5. Exit	Exits the menu.
 
-User is asked for operations in menu 
-1. Check for Updates
-2. Install Updates
-3. Clean System
-4. Show System Info
-5. Exit
+
+--------------PREVIEW------------------
+<img width="551" height="315" alt="image" src="https://github.com/user-attachments/assets/c9c2bbae-bcf1-4046-b78d-df72bf826242" />
+
