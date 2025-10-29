@@ -11,6 +11,7 @@ Check if the system has pending updates and notify the user. Example Output: Sys
 
 
 -----------FUNCTIONALITY--------------
+
 User is asked for operations in menu 
 1. Check for Updates
 2. Install Updates
