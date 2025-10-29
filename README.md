@@ -19,5 +19,8 @@ Check if the system has pending updates and notify the user. Example Output: Sys
 
 
 --------------PREVIEW------------------
+
+
+
 <img width="551" height="315" alt="image" src="https://github.com/user-attachments/assets/c9c2bbae-bcf1-4046-b78d-df72bf826242" />
 
